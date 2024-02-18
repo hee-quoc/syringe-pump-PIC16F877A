@@ -1,2 +1,2 @@
-This is my Simple Project about a Syringe Pump using PIC16F877A to control
-Main Programmer: MPLAB, PICkit2
+This is my team Simple Project about a Syringe Pump using PIC16F877A to control 
+\n Main Programmer: MPLAB, PICkit2
